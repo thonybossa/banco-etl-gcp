@@ -1,0 +1,1 @@
+SELECT * FROM dwh.metricas_calidad_datos ORDER BY fecha_reporte DESC;
